@@ -1,0 +1,5 @@
+40 4 0 Whale
+30 3 70 Shark
+20 2 35 Cod
+10 1 0 Herring
+0 1 0 Plankton
